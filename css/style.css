@@ -1,0 +1,96 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+}
+header{
+    background-color:#5bbc2e;
+}
+.navig{
+    font-size: 13px;
+}
+hr.line{
+    background-color: #fff;
+    opacity: 0.5;
+}
+.prev-btn{
+   
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    color: #5bbc2e;
+
+    text-align: center;
+    line-height: 80px;
+    font-size: 60px;
+}
+.carousel-indicators [data-bs-target]{
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    border-color: transparent;
+    border: 2px solid #5bbc2e;
+}
+.carousel-indicators .active{
+    background-color: #5bbc2e;
+    height: 9.5px;
+    width: 9.5px;
+    margin-top: 1px;
+}
+.text-car{
+    font-size: 48px;
+    font-weight: 800;
+    color: #5bbc2e;
+    max-width: 700px;
+    margin: 60px auto;
+    text-align: center;
+}
+.text-2{
+    font-size: 30px;
+    font-weight: 800;
+    color: #8d8d8d;
+    margin-top: 80px;
+    margin-left: auto;
+    text-align: start;
+}
+.text-3{
+    font-size: 15px;
+    color:#767575;
+    font-weight: 400;
+}
+.text-green{
+    color: #5bbc2e;
+}
+.photo-people{
+    padding-left: 110px;
+}
+ul{
+    list-style-image: url('/images/arrow.png');
+    font-size: 15px;
+    color:#767575;
+    font-weight: 400;
+}
+.text-4{
+    font-size: 30px;
+    font-weight: 800;
+    color: #8d8d8d;
+    margin: 80px auto;
+    text-align: center;
+}
+.footer-text{
+    font-size: 12px;
+    color: #e0e0e0;
+    font-weight: 600;
+}
+
+.card-title{
+    font-size: 12px; 
+    color: #4b4b4b;
+    font-weight: 800;
+    padding-top: 10px;
+}
+.btn-text{
+    font-size: 12px;
+    font-weight: 800;
+    color: #fff;
+ 
+}
